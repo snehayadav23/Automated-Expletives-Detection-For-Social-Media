@@ -2,8 +2,6 @@
 Python code to detect hate speech and classify twitter texts using NLP techniques and Machine Learning
 This project is ispired by the work of t-davidson, the original work has been referenced in the following link. This project works on improving the existing work and coming up with new findings and fresh analysis of the changes that occur when new features are introduced to the existing project. 
 
-**Inspiration Source** -  https://github.com/t-davidson/hate-speech-and-offensive-language 
-
 **Description of the project:**
 
 In this thesis we start by presenting the existing problem which comes with freedom of speech on the Internet and the misuse of social media platforms like twitter. These problems become an integral part of the motivation. We conduct a comprehensive and thorough research work by referring to the existing works in this field and coming up with a proposed solution for the problem. We also identify the gaps present in the existing works and find a way to solve those problems. We make use of a publicly available dataset provided by CrowdFlower and apply NLP techniques to achieve our goal. We describe the flow of our work which starts with analysis of the dataset followed by performing the text pre-processing to achieve a cleaner dataset that can be used in our next step called feature engineering. We extract some unique and important features and combine them in different sets for the purpose of comparison and analysis of the performance of various machine learning  classification algorithms with regard to each feature set. Finally we conduct an in-depth analysis of the results obtained and explain the reasons for missclassifications in our model.
